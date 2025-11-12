@@ -8,7 +8,7 @@ My goal is to build reliable, scalable, and intelligent applications.
 
 #### 🔭 My Current Focus:
 
-* **Full-Stack AI Applications:** I'm currently the team lead for my Capstone project, where we're building a **full-stack multimodal RAG/YOLO pipeline** deployed on **AWS (EC2, Nginx, Gunicorn)**.
+* **Full-Stack AI Applications:** Built and deployed a multimodal RAG/YOLO application which ranked as a Top 5 Capstone Project. My contributions spanned the stack, from the React.js frontend to the AWS deployment.
 * **Data Engineering & APIs:** My internship experience involved engineering **Python-based APIs** and **data ingestion pipelines** for 95K+ user logs.
 
 #### 🔧 My Toolkit:
