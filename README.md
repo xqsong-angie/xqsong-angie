@@ -10,10 +10,9 @@ CS Master's @ Rice (ML/AI Track) with 8+ years professional dancer
 
 ### What I Work With
 
-**ML/AI:** PyTorch, Hugging Face Transformers, LangChain
-           scikit-learn, CLIP, FAISS, YOLO
-**Data:** Pandas, NumPy, SQL, ETL pipelines
-**Infra:** Docker, AWS (EC2, S3), FastAPI, Redis
+**ML/AI:** PyTorch, Hugging Face Transformers, LangChain, scikit-learn, CLIP, FAISS, YOLO  
+**Data:** Pandas, NumPy, SQL, ETL pipelines  
+**Infra:** Docker, AWS (EC2, S3), FastAPI, Redis  
 
-*Also familiar with: TensorFlow, Keras, MATLAB*
+*Also familiar with: TensorFlow, Keras, MATLAB*  
 
