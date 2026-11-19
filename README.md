@@ -1,6 +1,6 @@
 
 
-# Hi there, I'm Angie (Xueqing) Song 👋
+# Hi there, I'm Angie Song 👋
 
 🎓 **CS Master's Student @ Rice University** | 🚀 **Backend Systems & Agentic AI**  
 
