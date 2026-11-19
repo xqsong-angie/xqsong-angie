@@ -2,8 +2,7 @@
 
 # Hi there, I'm Angie (Xueqing) Song 👋
 
-🎓 **CS Master's Student @ Rice University** | 🚀 **Backend Systems & AI Agent Engineer**  
-💡 Passionate about building **high-concurrency backend architectures**, **event-driven microservices**, and **production-ready AI/LLM infrastructure**.
+🎓 **CS Master's Student @ Rice University** | 🚀 **Backend Systems & Agentic AI**  
 
 ---
 
