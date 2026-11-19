@@ -17,12 +17,11 @@
 
 ### 🌟 Featured Research & Projects
 
-- **[ACL 2026 Findings] Multi-Granularity Evidence Retrieval for Multimodal RAG**
+- [ACL 2026 Findings](https://aclanthology.org/2026.findings-acl.509/) Multi-Granularity Evidence Retrieval for Multimodal RAG
   - Co-authored paper proposing element-level retrieval pipelines for verifiable multimodal RAG.
 - **[VoyageAI] Event-Driven Travel Planning Agent**
   - Orchestrated multi-agent tools using Java Spring Boot, FastAPI, Kafka, and Redis with distributed locking and dead-letter queues.
-- **[Campus AI Assistant] Self-Hosted Multi-Modal Backend**
-  - Built an async FastAPI microservice serving 1,500+ users with local Llama 3, Milvus, and batch ETL ingestion.
+
 
 ---
 
